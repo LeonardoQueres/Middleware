@@ -5,7 +5,7 @@ O middleware deve dizer "Olá" a cada pessoa cujo nome estará na cadeia de cons
 
 Middlewares são utilizados na classe startup.cs dos projeto feitos utilizando .net core.
 
-Neste projeto esta sendo feitas algumas validações ser feita uma requisição site.
+Neste projeto esta sendo feitas algumas validações ao ser feita uma requisição site.
 
             ''' INICIA A REQUISIÇÃO COM STATUSCODE 400 '''
             context.Response.StatusCode = 400;
