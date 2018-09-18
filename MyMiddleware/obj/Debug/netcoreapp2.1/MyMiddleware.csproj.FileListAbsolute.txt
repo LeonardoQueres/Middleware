@@ -1,0 +1,14 @@
+C:\Users\leonardo.queres\source\repos\MyMiddleware\MyMiddleware\bin\Debug\netcoreapp2.1\MyMiddleware.deps.json
+C:\Users\leonardo.queres\source\repos\MyMiddleware\MyMiddleware\bin\Debug\netcoreapp2.1\MyMiddleware.runtimeconfig.json
+C:\Users\leonardo.queres\source\repos\MyMiddleware\MyMiddleware\bin\Debug\netcoreapp2.1\MyMiddleware.runtimeconfig.dev.json
+C:\Users\leonardo.queres\source\repos\MyMiddleware\MyMiddleware\bin\Debug\netcoreapp2.1\MyMiddleware.dll
+C:\Users\leonardo.queres\source\repos\MyMiddleware\MyMiddleware\bin\Debug\netcoreapp2.1\MyMiddleware.pdb
+C:\Users\leonardo.queres\source\repos\MyMiddleware\MyMiddleware\obj\Debug\netcoreapp2.1\MyMiddleware.csprojAssemblyReference.cache
+C:\Users\leonardo.queres\source\repos\MyMiddleware\MyMiddleware\obj\Debug\netcoreapp2.1\MyMiddleware.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.queres\source\repos\MyMiddleware\MyMiddleware\obj\Debug\netcoreapp2.1\MyMiddleware.RazorAssemblyInfo.cache
+C:\Users\leonardo.queres\source\repos\MyMiddleware\MyMiddleware\obj\Debug\netcoreapp2.1\MyMiddleware.RazorAssemblyInfo.cs
+C:\Users\leonardo.queres\source\repos\MyMiddleware\MyMiddleware\obj\Debug\netcoreapp2.1\MyMiddleware.AssemblyInfoInputs.cache
+C:\Users\leonardo.queres\source\repos\MyMiddleware\MyMiddleware\obj\Debug\netcoreapp2.1\MyMiddleware.AssemblyInfo.cs
+C:\Users\leonardo.queres\source\repos\MyMiddleware\MyMiddleware\obj\Debug\netcoreapp2.1\MyMiddleware.RazorTargetAssemblyInfo.cache
+C:\Users\leonardo.queres\source\repos\MyMiddleware\MyMiddleware\obj\Debug\netcoreapp2.1\MyMiddleware.dll
+C:\Users\leonardo.queres\source\repos\MyMiddleware\MyMiddleware\obj\Debug\netcoreapp2.1\MyMiddleware.pdb
